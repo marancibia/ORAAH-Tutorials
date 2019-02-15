@@ -6,7 +6,6 @@
 # Accessing Data in HDFS, pushing data from R to HDFS  #
 # and vice-versa                                       #
 #                                                      #
-#                                                      #
 # Created: February 2019 by Marcos Arancibia           #
 # Last review: February 2019 by Marcos Arancibia       #
 #                                                      #
