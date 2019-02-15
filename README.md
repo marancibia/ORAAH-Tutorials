@@ -12,6 +12,8 @@ ORAAH's custom LM/GLM/MLP NN algorithms on Spark scale better and run faster tha
 
 **The following are a list of folders containing R code for learning about (ORAAH)** 
 - Introduction to ORAAH
+
+**Coming soon**
 - ORAAH Basic Demos
 - Working with HIVE and IMPALA
 - Working with Spark Data Frames
