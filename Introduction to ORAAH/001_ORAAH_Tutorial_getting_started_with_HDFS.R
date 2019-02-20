@@ -185,5 +185,7 @@ class(iris.local)
 # that comes with R should be identical
 identical(iris.local, iris)
 
+# END OF: ORAAH Tutorial 001 - Getting Started with HDFS
+
 
 
