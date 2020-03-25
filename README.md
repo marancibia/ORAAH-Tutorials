@@ -1,4 +1,4 @@
-# ORAAH-Tutorials
+# OML4Spark-Tutorials
 
 ## Tutorials for OML4Spark (a.k.a. ORAAH) release 2.8.x
 **The [Oracle Machine Learning for Spark][1] (OML4Spark) is a set of R packages and Java libraries**
