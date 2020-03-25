@@ -11,13 +11,14 @@ ORAAH's custom LM/GLM/MLP NN algorithms on Spark scale better and run faster tha
 
 
 **The following are a list of demos containing R code for learning about (OML4Spark)** 
-- Folder "notebooks" that contain Apache Zeppelin notebooks for OML4Spark
+- Folder "notebooks" with notebooks in JSON format compatible with Apache Zeppelin 
 - Files on the current folder
   - Introduction to OML4Spark (oml4spark_tutorial_getting_started_with_hdfs.r)
   - Working with HIVE, IMPALA and Spark Data Frames (oml4spark_tutorial_getting_started_with_hive_impala_spark.r)
   - Function in R to visualize Hadoop Data in Apache Zeppelin z.show (oml4spark_function_zeppelin_visualization_z_show.r)
   - AutoML for Classification using Cross Validation with OML4Spark
-    * Execute the Cross Validation (oml4spark_function_run_cross_validation.r)
+    * Sample Execution of the Cross Validation (oml4spark_execute_cross_validation.r)
+    * Function to run the Cross Validation (oml4spark_function_run_cross_validation.r)
     * Function to Create a Balanced input Dataset (oml4spark_function_create_balanced_input.r)
     * Function to run Variable Selection via GLM Logistic (oml4spark_function_variable_selection_via_glm.r)
     * Function to run Variable Selection via Singular Value Decomposition (oml4spark_function_variable_selection_via_pca.r)
