@@ -10,14 +10,21 @@ ORAAH's custom LM/GLM/MLP NN algorithms on Spark scale better and run faster tha
 - Core Analytics functionality halso available in a standalone Java library that can be used directly without the need of the R language, and can be called from any Java or Scala platform.
 
 
-**The following are a list of folders containing R code for learning about (ORAAH)** 
-- Introduction to ORAAH
-
-**Coming soon**
-- ORAAH Basic Demos
-- Working with HIVE and IMPALA
-- Working with Spark Data Frames
-- Working with Machine Learning algorithms
-- Cross Validation with ORAAH
+**The following are a list of demos containing R code for learning about (ORAAH)** 
+- Introduction to ORAAH (oml4spark_tutorial_getting_started_with_hdfs.r)
+- Working with HIVE, IMPALA and Spark Data Frames (oml4spark_tutorial_getting_started_with_hive_impala_spark.r)
+- Function in R to visualize Hadoop Data in Apache Zeppelin z.show (oml4spark_function_zeppelin_visualization_z_show.r)
+- AutoML for Classification using Cross Validation with OML4Spark
+  * Execute the Cross Validation (oml4spark_function_run_cross_validation.r)
+  * Function to Create a Balanced input Dataset (oml4spark_function_create_balanced_input.r)
+  * Function to run Variable Selection via GLM Logistic (oml4spark_function_variable_selection_via_glm.r)
+  * Function to run Variable Selection via Singular Value Decomposition (oml4spark_function_variable_selection_via_pca.r)
+  * Function to compute Confusion Matrix and statistics (oml4spark_function_confusion_matrix_in_spark.r)
+  * Function to build all OML4Spark models (oml4spark_function_build_all_classification_models.r)
 
 [1]:https://www.oracle.com/technetwork/database/database-technologies/bdc/r-advanalytics-for-hadoop/overview/index.html
+
+#### Copyright (c) 2020 Oracle Corporation and its affiliates
+
+##### [The Universal Permissive License (UPL), Version 1.0](https://oss.oracle.com/licenses/upl/)
+
