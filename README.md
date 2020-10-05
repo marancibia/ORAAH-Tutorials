@@ -11,7 +11,9 @@ ORAAH's custom LM/GLM/MLP NN algorithms on Spark scale better and run faster tha
 
 
 **The following are a list of demos containing R code for learning about (OML4Spark)** 
+
 - Folder "notebooks" with notebooks in JSON format compatible with Apache Zeppelin 
+
 - Files on the current folder
   - Introduction to OML4Spark (oml4spark_tutorial_getting_started_with_hdfs.r)
   - Working with HIVE, IMPALA and Spark Data Frames (oml4spark_tutorial_getting_started_with_hive_impala_spark.r)
